@@ -46,13 +46,13 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 </head>
 <body>
     <center><h1>JUPITER</h1></center>
-    <p>Jupiter is the biggest planet in our solar system.
-         It's similar to a star, but it never got massive enough to start burning.
-          It is covered in swirling cloud stripes.
+    <p>Jupiter is the biggest planet in our solar system.<br>
+         It's similar to a star, but it never got massive enough to start burning.<br>
+          It is covered in swirling cloud stripes.<br>
            It has big storms like the Great Red Spot, which has been going for hundreds of years.</p>
 
            <p> It has many moons, including the four large Galilean moons - Io, Europa,
-             Ganymede, and Callisto, which are visible with a telescope from Earth.
+             Ganymede, and Callisto, which are visible with a telescope from Earth.<br>
              Though Jupiter has rings, they are very faint and not easily seen. </p>
 
              <h1>DONE BY :  JAYADEV PALLINTI</h1>
@@ -64,7 +64,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## OUTPUT:
 
-![Screenshot 2025-03-05 110713](https://github.com/user-attachments/assets/f1d28ad2-e98f-48f8-8487-0b7abdddab3b)
+![Screenshot 2025-03-05 111525](https://github.com/user-attachments/assets/ea60a418-0ded-42b7-9e43-77113dd7dcdc)
 
 
 ## RESULT:
