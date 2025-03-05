@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date: 05/03/2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
@@ -36,9 +36,35 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center><h1>JUPITER</h1></center>
+    <p>Jupiter is the biggest planet in our solar system.
+         It's similar to a star, but it never got massive enough to start burning.
+          It is covered in swirling cloud stripes.
+           It has big storms like the Great Red Spot, which has been going for hundreds of years.</p>
 
+           <p> It has many moons, including the four large Galilean moons - Io, Europa,
+             Ganymede, and Callisto, which are visible with a telescope from Earth.
+             Though Jupiter has rings, they are very faint and not easily seen. </p>
+
+             <h1>DONE BY :  JAYADEV PALLINTI</h1>
+
+
+</body>
+</html>
+```
 
 ## OUTPUT:
+
+![Screenshot 2025-03-05 110713](https://github.com/user-attachments/assets/f1d28ad2-e98f-48f8-8487-0b7abdddab3b)
 
 
 ## RESULT:
